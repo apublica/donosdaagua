@@ -1,4 +1,4 @@
-# Metodologia da reportagem
+# Metodologia da reportagem: "Raio-x de quem é dono da água: 50 empresas podem usar a mesma quantidade que metade do Brasil"
 
 1. Foram baixados os dados [disponibilizados pela ANA](https://www.gov.br/ana/pt-br/assuntos/regulacao-e-fiscalizacao/outorga/outorgas-emitidas) (“planilha de outorgas”) em 15/08/2023. O arquivo pode ser visto [aqui](https://github.com/apublica/donosdaagua/blob/main/relatorio_outorgas.csv)
 2. Foram excluídas as colunas que versam sobre vazão diária e correlatos;
